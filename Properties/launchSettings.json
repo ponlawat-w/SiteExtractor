@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "SiteExtractor": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "aHR0cHM6Ly9zaGlzYS5hcHAvaW5kZXgvamEuaHRtbA==/tag.html:0,tag.body:0,tag.div&attr.class=col-6 offset-xs-3 col-sm-2:0,tag.a:0/attr.href/redirect",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
